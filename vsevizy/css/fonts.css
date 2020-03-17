@@ -1,0 +1,41 @@
+/* ROBOTO */
+
+@font-face {
+    src: url('../fonts/Roboto/Roboto-Light.ttf');
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    src: url('../fonts/Roboto/Roboto-Regular.ttf');
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    src: url('../fonts/Roboto/Roboto-Medium.ttf');
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    src: url('../fonts/Roboto/Roboto-Bold.ttf');
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+}
+
+/* UBUNTU */
+
+@font-face {
+    src: url('../fonts/Ubuntu/Ubuntu-Regular.ttf');
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    src: url('../fonts/Ubuntu/Ubuntu-Bold.ttf');
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+}

@@ -1,0 +1,41 @@
+[20-Jul-2018 17:32:39 Europe/Berlin] PHP Notice:  Undefined index: type in C:\xampp\htdocs\propotolki\send\mail.php on line 32
+[20-Jul-2018 17:32:40 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\propotolki\send\mail.php on line 75
+[20-Jul-2018 17:33:05 Europe/Berlin] PHP Notice:  Undefined index: type in C:\xampp\htdocs\propotolki\send\mail.php on line 32
+[20-Jul-2018 17:33:06 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\propotolki\send\mail.php on line 75
+[23-Jul-2018 10:13:39 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to undefined function emtpy() in /home/retsolme/public_html/potolkiprofi.by/send/mail.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/retsolme/public_html/potolkiprofi.by/send/mail.php on line 70
+[23-Jul-2018 10:30:42 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to undefined function emtpy() in /home/retsolme/public_html/potolkiprofi.by/send/mail.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/retsolme/public_html/potolkiprofi.by/send/mail.php on line 70
+[23-Jul-2018 10:37:55 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to undefined function emtpy() in /home/retsolme/public_html/potolkiprofi.by/send/mail.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/retsolme/public_html/potolkiprofi.by/send/mail.php on line 70
+[23-Jul-2018 10:48:40 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to undefined function emtpy() in /home/retsolme/public_html/potolkiprofi.by/send/mail.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/retsolme/public_html/potolkiprofi.by/send/mail.php on line 70
+[23-Jul-2018 10:49:57 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to undefined function emtpy() in /home/retsolme/public_html/potolkiprofi.by/send/mail.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/retsolme/public_html/potolkiprofi.by/send/mail.php on line 70
+[23-Jul-2018 10:54:25 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to undefined function emtpy() in /home/retsolme/public_html/potolkiprofi.by/send/mail.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/retsolme/public_html/potolkiprofi.by/send/mail.php on line 70
+[23-Jul-2018 11:37:45 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to undefined function emtpy() in /home/retsolme/public_html/potolkiprofi.by/send/mail.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/retsolme/public_html/potolkiprofi.by/send/mail.php on line 70
+[23-Jul-2018 11:38:33 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to undefined function emtpy() in /home/retsolme/public_html/potolkiprofi.by/send/mail.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/retsolme/public_html/potolkiprofi.by/send/mail.php on line 70
+[23-Jul-2018 12:22:39 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to undefined function emtpy() in /home/retsolme/public_html/potolkiprofi.by/send/mail.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/retsolme/public_html/potolkiprofi.by/send/mail.php on line 70
+[23-Aug-2018 11:35:38 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\propotolki\send\mail.php on line 99

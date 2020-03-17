@@ -1,0 +1,20 @@
+[13-Jan-2020 14:34:20 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to a member function auth() on null in /home/getprice/public_html/m-mebel-cupon/sendModern.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/getprice/public_html/m-mebel-cupon/sendModern.php on line 20
+[13-Jan-2020 14:34:40 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to a member function auth() on null in /home/getprice/public_html/m-mebel-cupon/sendModern.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/getprice/public_html/m-mebel-cupon/sendModern.php on line 20
+[13-Jan-2020 14:34:55 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to a member function auth() on null in /home/getprice/public_html/m-mebel-cupon/sendModern.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/getprice/public_html/m-mebel-cupon/sendModern.php on line 20
+[13-Jan-2020 14:35:49 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to a member function auth() on null in /home/getprice/public_html/m-mebel-cupon/sendModern.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/getprice/public_html/m-mebel-cupon/sendModern.php on line 20
+[13-Jan-2020 14:35:55 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to a member function auth() on null in /home/getprice/public_html/m-mebel-cupon/sendModern.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/getprice/public_html/m-mebel-cupon/sendModern.php on line 20

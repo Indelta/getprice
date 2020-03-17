@@ -1,0 +1,1190 @@
+@media screen and (max-width: 1200px) {
+
+}
+
+@media screen and (max-width: 1024px) {
+    #utp .salesBlock .image img{
+        width: 100%;
+    }
+    #utp .salesBlock .content .text {
+        font-size: 25px;
+    }
+    #utp .salesBlock .content .text span {
+        font-size: 55px;
+    }
+    #utp .w-hranenie {
+        font-size: 20px;
+    }
+    #kalkulator .kalkulatorBody {
+        height: auto;
+        padding-bottom: 20px;
+    }
+    #kalkulator .step1 ul li label img {
+        width: 100%;
+    }
+    #kalkulator .step3:before {
+        display: none;
+    }
+    #kalkulator .step4:before {
+        display: none;
+    }
+    #dont_know {
+        height: auto;
+        background-size: cover;
+    }
+    #eit {
+        height: auto;
+        background-size: cover;
+        padding-bottom: 30px;
+    }
+    #eit .eit_title {
+        font-size: 22px;
+    }
+    #eit .eit_cont {
+        float: none;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    #eit .eit_cont .iet_item {
+        width: 23%;
+        height: auto;
+        margin: 0;
+        padding: 15px;
+    }
+    #eit .eit_cont .iet_item p {
+        font-size: 18px;
+    }
+    #eit .eit_resilt {
+        float: none;
+        padding-top: 35px;
+    }
+    #why {
+        height: auto;
+        padding-bottom: 40px;
+        background-size: cover;
+    }
+    #why .why_cont .why_spis {
+        margin-top: 40px;
+        width: 70%;
+        padding-right: 20px;
+    }
+    #why .why_cont .why_imgs {
+        width: 30%;
+    }
+    #why .why_cont .why_imgs img {
+        width: 100%;
+    }
+    #how .how_title {
+        font-size: 30px;
+    }
+    #how .how_cont .how_item p {
+        font-size: 16px;
+    }
+    #how .how_cont {
+        display: flex;
+        justify-content: center;
+    }
+    #how .how_cont .how_item {
+        margin: 0;
+        padding: 15px;
+        width: 20%;
+    }
+    #how {
+        height: auto;
+        background-size: cover;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    #utp .header .logo {
+        width: 100%;
+        max-width: 100px;
+        margin-right: 5px;
+    }
+    #utp .header .sitename {
+        font-size: 12px;
+        max-width: 150px;
+    }
+    #utp .header .sitename span {
+        font-size: 10px;
+    }
+    #utp .header .worktime {
+        font-size: 12px;
+        float: left;
+        margin-left: 5px;
+        width: 185px;
+    }
+    #utp .header .worktime img {
+        margin-right: 5px;
+        max-width: 20px;
+    }
+    #utp .header .contacts .phone img, #utp .header .contacts .tel img {
+        max-width: 20px;
+    }
+    #utp .header .contacts .phone span, #utp .header .contacts .tel span {
+        font-size: 20px;
+    }
+    #utp .header .contacts .phone span small, #utp .header .contacts .tel span small {
+        font-size: 12px;
+    }
+    #utp .header .contacts button {
+        margin-left: 8px;
+    }
+    #utp .utp {
+        text-align: center;
+    }
+    #utp .utp .warning {
+        width: 100%;
+        max-width: 550px;
+        margin: 0 auto;
+    }
+    #utp .utp .ovImg {
+        width: 100%;
+        max-width: 350px;
+        margin-top: -20px;
+    }
+    #utp .utp .action {
+        margin-top: 40px;
+        margin-right: 20px;
+    }
+    #utp .presentsLine .cont::after {
+        display: none;
+    }
+    #utp .presentsLine .cont .leikaImg {
+        position: absolute;
+        top: 80px;
+        right: 0;
+        margin: 0;
+    }
+    #utp .presentsLine h2 {
+        width: 100%;
+        margin: 0 auto 20px;
+        text-align: center;
+    }
+    #utp .presentsLine .plashka {
+        width: 100%;
+        margin: 0 auto;
+    }
+    #kalkulator .step5:before {
+        display: none;
+    }
+    #kalkulator .step5 ul {
+        margin-right: 0;
+    }
+    #catalog .catalog_cont .product .desc form {
+        position: static;
+    }
+    #catalog .catalog_cont .product p:nth-child(1) {
+        font-size: 20px;
+    }
+    #catalog .catalog_cont .product .desc form button {
+        display: inline-block;
+        /* width: auto; */
+        height: auto;
+        font-size: 20px;
+        padding: 5px 15px;
+    }
+    #catalog .catalog_cont .product .count,
+    #catalog .catalog_cont .product .luchsh {
+        font-size: 18px;
+        padding: 10px;
+    }
+    #catalog .catalog_cont .product .count {
+        top: 2%;
+    }
+    #catalog .catalog_cont .product .luchsh {
+        bottom: auto;
+        top: 70%;
+    }
+    .garantt {
+        font-size: 20px;
+        width: 180px;
+        height: 180px;
+        padding: 30px 0;
+        top: -135px;
+    }
+    .garantt span {
+        font-size: 16px;
+    }
+    .gost {
+        width: 180px;
+        height: 180px;
+    }
+    .gost img {
+        width: 100%;
+    }
+    #gost .content form {
+        width: 100%;
+        float: none;
+        display: flex;
+        justify-content: space-around;
+        padding-top: 40px;
+    }
+    #gost .content form .gr {
+        width: 23%;
+        float: none;
+        padding: 0;
+        margin: 0;
+    }
+    #gost .content form .gr input, #gost .content form .gr select {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    #gost .content form .gr button {
+        width: 100%;
+        font-size: 20px;
+    }
+    #gost .content .l {
+        width: 50%;
+    }
+    #gost .content .l img {
+        width: 100%;
+    }
+    #gost .content .r {
+        width: 50%;
+        height: auto;
+        padding-left: 30px;
+    }
+    #dont_know .n_know_data {
+        width: 100%;
+        max-width: 444px;
+        margin: 60px auto 0;
+        float: none;
+        height: auto;
+        padding: 30px 20px;
+        text-align: center;
+    }
+    #dont_know .n_know_data p:first-child {
+        font-size: 33px;
+    }
+    #dont_know .n_know_data p:last-child {
+        font-size: 28px;
+    }
+    #dont_know .n_know_contact .l {
+        float: none;
+        height: auto;
+        text-align: center;
+        width: auto;
+    }
+    #dont_know .n_know_contact .r {
+        float: none;
+        margin-left: 0;
+    }
+    #dont_know .n_know_contact {
+        float: none;
+        height: auto;
+    }
+    #dont_know .n_know_contact .r form {
+        display: flex;
+        justify-content: center;
+    }
+    #eit .eit_resilt .result_cont {
+        padding: 0;
+    }
+    #eit .eit_resilt .result_cont {
+        max-width: 630px;
+        margin: 0 auto;
+    }
+    #eit .eit_resilt .result_cont a:first-child img {
+        margin-right: 10px;
+    }
+    #discount .leftpart {
+        width: 480px;
+    }
+    
+    #discount .rightpart {
+        width: calc(100% - 480px);
+    }
+    #discount .leftpart p {
+        font-size: 20px;
+    }
+    #discount .leftpart .text {
+        margin-left: 5px;
+        font-size: 20px;
+    }
+    #discount .leftpart .text span {
+        font-size: 50px;
+        line-height: 70px;
+    }
+    #discount .leftpart:after {
+        border-bottom-width: 67px;;
+    }
+    #discount .rightpart form {
+        margin-top: 0;
+    }
+    #poliv .content{
+        flex-wrap: wrap;
+    }
+    #poliv .content .left,
+    #poliv .content .right {
+        width: 100%;
+        text-align: center;
+    }
+    #poliv .content .left {
+        max-width: 400px;
+        margin-bottom: 30px;
+        padding: 0 10px;
+    }
+    #poliv .content .right {
+        display: none;
+    }
+    #poliv .content .right .text {
+
+    }
+}
+
+@media screen and (max-width: 920px) {
+    /* #utp .w-utp.rasprodazha .plashka {
+        margin: 0 auto;
+    } */
+    #utp .w-utp.rasprodazha h1 {
+        font-size: 33px;
+        /* line-height: 40px; */
+    }
+    #utp .w-utp.rasprodazha h1 span {
+        font-size: 25px;
+    }
+    #utp .w-utp.rasprodazha h1 + p {
+        font-size: 20px;
+    }
+    #utp .w-utp .stickers.rasprodazha {
+        position: static;
+        max-width: 560px;
+        /* display: flex;
+        flex-wrap: wrap;
+        justify-content: center; */
+    }
+    #kalkulator .step2:before {
+        display: none;
+    }
+    #catalog .catalog_title {
+        font-size: 30px;
+    }
+    #catalog .catalog_cont .product .product-img {
+        min-height: 0;   
+    }
+    #catalog .catalog_cont .product.horizont .rightPart {
+        height: auto;
+    }
+    #catalog .catalog_cont .product.horizont .leftPart {
+        width: 50%;
+        background-color: #fff;
+        float: left;
+    }
+    #catalog .catalog_cont .product.horizont .rightPart {
+        width: 50%;
+        margin-left: 0;
+        float: left;
+    }
+    #catalog .catalog_cont .product.horizont .rightPart form {
+        width: 100%;
+    }
+    #catalog .catalog_cont .product.horizont .send_catal, #catalog .catalog_cont .product.horizont .send_catal_karkas {
+        width: auto;
+        height: auto;
+        font-size: 20px;
+        padding: 5px 15px;
+    }
+    #catalog .catalog_cont .product.horizont .desc {
+        clear: both;
+    }
+    #gost .title {
+        font-size: 20px;
+    }
+    #gost .content .desc {
+        font-size: 18px;
+    }
+    #why .why_title {
+        font-size: 27px;
+    }
+    #why .why_cont .safsd {
+        font-size: 20px;
+    }
+    #why .why_cont .why_spis p {
+        font-size: 18px;
+    }
+    #craft {
+        display: none;
+    }
+    #clients .clients_title {
+        font-size: 30px;
+    }
+    .carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev {
+        margin-left: -30px;
+    }
+    .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next {
+        margin-right: -30px;
+    }
+    #clients .clients_cont .carousel-inner {
+        width: 85%;
+    }
+    #clients .clients_cont .carousel-control {
+        width: 8%;
+    }
+    #clients .clients_cont .carousel-inner .item .img_client {
+        width: 25%;
+    }
+    #clients .clients_cont .carousel-inner .item .img_client img {
+        width: 100%;
+        height: auto;
+    }
+    #clients .clients_cont .carousel-inner .item .data_client {
+        width: 70%;
+    }
+    #foot {
+        height: 160px;
+    }
+    #foot .logo img {
+        width: 30%;
+        height: auto;
+    }
+    #foot .logo p {
+        font-size: 14px;
+        margin-left: 115px;
+        margin-top: 10px;
+    }
+    #foot .times {
+        font-size: 14px;
+        margin-left: 35px;
+    }
+    #foot .phones .phone, #foot .phones .tel {
+        font-size: 26px;
+    }
+    #foot .phones button {
+        width: auto;
+        height: auto;
+        padding: 7px 15px;
+    }
+    #foot .adrss {
+        top: 100px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    #utp .w-utp {
+        padding: 30px 10px;
+    }
+    #utp .w-utp h1 {
+        font-size: 48px;
+        margin-bottom: 20px;
+    }
+    #utp .w-utp h1 + p {
+        font-size: 27px;
+        margin-bottom: 50px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #utp .header {
+        padding: 10px 10px 0;
+    }
+    #utp .header .sitename span {
+        display: none;
+    }
+    #utp .header .worktime {
+        clear: both;
+        margin-top: -35px;
+    }
+    #utp .header .contacts .phone, #utp .header .contacts .tel {
+        clear: both;
+        padding-top: 10px;
+    }
+    #utp .header .contacts button {
+        margin-left: 0;
+        margin-top: 0;
+        padding: 5px 10px;
+        font-size: 14px;
+    }
+    #utp .header .logo {
+        max-width: 90px;
+    }
+    #utp .header .sitename {
+        font-size: 10px;
+        padding-top: 10px;
+    }
+    #utp .header .worktime  {
+        font-size: 10px;
+        margin-top: -30px;
+    }
+    #utp .header .worktime p {
+        margin-bottom: 0;
+    }
+    #utp .header .worktime img {
+        display: none;
+    }
+    #utp .utp {
+        background-size: cover;
+        height: auto;
+        min-height: 600px;
+    }
+    #utp .utp .ovImg {
+        display: none;
+    }
+    #utp .utp .action {
+        display: inline-block;
+        margin: 20px 10px;
+        float: none;
+    }
+    #utp .utp h1 {
+        padding-bottom: 30px;
+    }
+    #utp .w-utp.belzavod h1 {
+        font-size: 42px;
+    }
+    #utp .w-utp.belzavod h1 + p {
+        font-size: 23px;
+    }
+    #utp .utp .warning {
+        margin-bottom: 30px;
+    }
+
+    #utp .salesBlock .content {
+        flex-wrap: wrap;
+        padding: 15px 0;
+    }
+    #utp .salesBlock .content br {
+        display: none;
+    }
+    #utp .salesBlock .content .text {
+        width: 100%;
+    }
+    #utp .salesBlock .content .image, 
+    #utp .salesBlock .content .form {
+        width: 50%;
+    }
+
+    #utp .w-hranenie {
+        font-size: 18px;
+    }
+    #kalkulator .step5 ul li {
+        width: 48%;
+    }
+    #catalog .catalog_cont{
+        display: none;
+    }
+    #catalog-mobile {
+        display: block;
+    }
+    #catalog .catalog_title {
+        font-size: 25px;
+    }
+    #catalog .ocenka .text {
+        margin-bottom: 20px;
+    }
+    #gost {
+        height: auto;
+        padding-bottom: 30px;
+    }
+    #gost .content {
+        display: none;
+    }
+    #gost .mobile-content {
+        display: block;
+    }
+    #dont_know .n_know_data {
+        margin-top: 30px;
+    }
+    #dont_know .n_know_data p:first-child {
+        font-size: 28px;
+    }
+    #dont_know .n_know_data p:last-child {
+        font-size: 23px;
+    }
+    #dont_know .n_know_contact {
+        width: 100%;
+        max-width: 444px;
+        margin: 30px auto;
+    }
+    #dont_know .n_know_contact .l p:first-child {
+        font-size: 23px;
+    }
+    #dont_know .n_know_contact .l p:last-child {
+        font-size: 27px;
+    }
+    #dont_know .n_know_contact .r {
+        height: auto;
+    }
+    #dont_know .n_know_contact .r p:first-child {
+        font-size: 20px;
+    }
+    #dont_know .n_know_contact .r form {
+        display: block;
+        padding-bottom: 20px;
+    }
+    #dont_know .n_know_contact .r form input {
+        float: none;
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 15px;
+    }
+    #dont_know .n_know_contact .r form button {
+        float: none;
+        display: block;
+        width: 100%;
+    }
+    #eit .eit_title {
+        font-size: 20px;
+    }
+    #eit .eit_cont .iet_item {
+        width: 45%;
+    }
+    #eit .eit_cont .iet_item p {
+        font-size: 16px;
+    }
+    #eit .eit_cont .iet_item p br {
+        display: none;
+    }
+    #eit .eit_resilt {
+        padding-top: 40px;
+    }
+    #eit .eit_resilt .title_result {
+        font-size: 22px;
+    }
+    #eit .eit_resilt .result_cont {
+        max-width: 100%;
+    }
+    #eit .eit_resilt .result_cont a {
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+    }
+    #discount .leftpart {
+        width: 100%;
+        max-width: 500px;
+        margin: 0 auto;
+        float: none;
+        padding-bottom: 20px;
+        min-height: 170px;
+    }
+    #discount .rightpart {
+        width: 100%;
+        float: none;
+    }
+    #discount .rightpart form {
+        margin: 0 auto;
+        padding-left: 0;
+    }
+    #discount .rightpart form p {
+        text-align: center;
+    }
+    #discount .leftpart:after {
+        content: '';
+        display: table;
+        clear: both;
+        border: 0;
+    }
+    #discount .leftpart p {
+        margin-left: 0;
+        text-align: center;
+    }
+    #why .why_cont .why_spis {
+        margin-top: 0;
+        width: 100%;
+        padding-right: 0;
+    }
+    #why .why_cont .why_imgs {
+        display: none;
+    }
+    #why .why_title {
+        font-size: 24px;
+    }
+    #why .why_title br {
+        display: none;
+    }
+    #why .why_cont .safsd {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    #why .why_cont .why_spis p {
+        font-size: 16px;
+    }
+    #why .why_cont .why_spis p span {
+        font-size: 20px;
+    }
+    .highpricePlashka img {
+        display: none;
+    }
+    #how .how_cont {
+        flex-wrap: wrap;
+    }
+    #how .how_cont .how_item {
+        padding: 10px;
+        width: 33%;
+    }
+    #clients .clients_title {
+        font-size: 25px;
+    }
+    #clients .clients_cont .carousel-inner .item .data_client p:nth-child(1) {
+        font-size: 20px;
+    }
+    #clients .clients_cont .carousel-inner .item .data_client p:nth-child(2) {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    #doptovary .doptovaryTitle p {
+        font-size: 25px;
+    }
+    #foot .logo {
+        width: 275px;
+    }
+    #foot .logo p {
+        margin-left: 90px;
+    }
+    #foot .times {
+        margin-left: 10px;
+    }
+    #foot .adrss {
+        font-size: 12px;
+        margin: 0;
+    }
+    #foot .phones .phone, #foot .phones .tel {
+        font-size: 20px;
+    }
+    #foot .phones button {
+        font-size: 16px;
+    }
+    .modal-content {
+        background: none;
+        background-color: #fff;
+    }
+    .modal-body {
+        text-align: center;
+    }
+    .modal-dialog.modal-lg {
+        width: 90% !important;
+        margin: 20px auto;
+    }
+    #up_form, #up_form_sale {
+        width: 100%;
+        margin: 0 auto;
+    }
+    #up_form button, #up_form_sale button {
+        width: auto;
+    }
+    #up_form p:last-child br, #up_form_sale p:last-child br{
+        display: none;
+    }
+    #up_form p:last-child i, #up_form_sale p:last-child i {
+        padding-left: 0px;
+        display: block;
+    }
+    .fix_b {
+        background-size: cover;
+        width: 80px;
+        height: 40px;
+        top: auto;
+        bottom: 60px;
+    }
+    
+}
+
+
+@media screen and (max-width: 510px) {
+    #discount .leftpart {
+        text-align: center;
+    }
+    #discount .leftpart .skidkaleft {
+        float: none;
+        vertical-align: top;
+        margin-bottom: 20px;
+    }
+    #discount .leftpart .skidkaright {
+        float: none;
+        clear: both;
+    }
+    #discount .leftpart .text {
+        margin-left: 20px;
+        display: inline-block;
+        float: none;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    #utp .w-utp.rasprodazha .sticker-spec {
+        top: 140px;
+        right: 0;
+    }
+    #utp .utp h1 {
+        font-size: 30px;
+        line-height: 40px;
+        padding-bottom: 50px;
+    }
+    #utp .utp h1 br {
+        display: none;
+    }
+    #utp .utp h1 span {
+        font-size: 28px;
+    }
+    #utp .utp .warning {
+        display: inline-block;
+        width: auto;
+        max-width: 100%;
+        padding: 5px 10px;
+        margin-bottom: 50px;
+    }
+    #utp .utp .action {
+        padding: 10px 15px;
+    }
+    #utp .utp .action .lineup {
+        font-size: 14px;
+    }
+    #utp .utp .action .lineup span{
+        font-size: 16px;
+    }
+
+    #utp .w-utp {
+        background-position: 0 0;
+        text-align: center;
+    }
+    #utp .w-utp h1 {
+        font-size: 42px;
+    }
+    #utp .w-utp h1 span::after {
+        top: 5px;
+        right: -45px;
+    }
+    #utp .w-utp h1 + p {
+        font-size: 23px;
+    }
+    #utp .w-utp h1 + p img {
+        max-width: 45px;
+    }
+    #utp .w-utp.rasprodazha + .w-hranenie p {
+        font-size: 16px;
+    }
+    #utp .w-utp .stickers {
+        width: 100%;
+        max-width: 100%;
+    }
+    #utp .w-hranenie {
+        font-size: 18px;
+    }
+    #utp .w-hranenie p {
+        padding: 10px;
+    }
+
+    #utp .presentsLine h2 {
+        font-size: 22px;
+    }
+    #utp .presentsLine .plashka .text {
+        font-size: 15px;
+    }
+    #utp .presentsLine .plashka {
+        background-color: rgba(255, 255, 255, .9);
+    }
+    #kalkulator .kalkulatorBody {
+        height: auto;
+        padding-bottom: 20px;
+    }
+    #kalkulator h2 {
+        font-size: 20px;
+    }
+    #kalkulator .description {
+        font-size: 18px;
+    }
+    #kalkulator .step1 ul li label {
+        font-size: 14px;
+    }
+    #kalkulator nav {
+        text-align: center;
+    }
+    #kalkulator nav .next {
+        width: auto;
+        height: auto;
+        display: inline-block;
+        font-size: 20px;
+        padding: 10px 20px;
+    }
+    #kalkulator .step5 .nota {
+        font-size: 18px;
+    }
+    #kalkulator .step5 .nota2 {
+        font-size: 16px;
+    }
+    #kalkulator .step2 ul, 
+    #kalkulator .step3 ul,
+    #kalkulator .step4 ul,
+    #kalkulator .step5 ul li {
+        font-size: 14px;
+    }
+    #kalkulator .step2 ul li,
+    #kalkulator .step3 ul li,
+    #kalkulator .step4 ul li,
+    #kalkulator .step5 ul li {
+        margin-bottom: 0;
+    }
+    #kalkulator .step6 h3 {
+        font-size: 20px;
+    }
+    #kalkulator .step6 .input {
+        width: 100%;
+        max-width: 370px;
+        margin: 0 auto;
+    }
+    #kalkulator .step6 .input input {
+        width: 100%;
+        display: block;
+        margin-right: 0;
+        box-sizing: border-box;
+    }
+    #kalkulator .step6 nav .button {
+        width: auto;
+        height: auto;
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 20px;
+    }
+    #kalkulator .step6 nav .prev {
+        top: 47px;
+        left: 0;
+    }
+    .highpricePlashka {
+        font-size: 14px;
+        padding: 7px 0;
+    }
+    #how .how_cont .how_item {
+        width: 50%;
+        padding: 5px;
+    }
+    #how .how_cont .how_item p {
+        font-size: 14px;
+    }
+    #how .how_title {
+        font-size: 22px;
+    }
+    #clients .clients_cont .carousel-inner .item .img_client {
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    #clients .clients_cont .carousel-inner .item .data_client {
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    #clients .clients_cont .carousel-inner .item .img_client img {
+        width: auto;
+        max-width: 40%;
+    }
+    #clients {
+        height: auto;
+        background-size: cover;
+    }
+    #doptovary {
+        display: none;
+    }
+    #foot {
+        display: none;
+    }
+    #foot-mobile {
+        display: block;
+    }
+    #powered img {
+        width: 80%;
+    }
+    #powered .up {
+        margin: -38px auto 0;
+    }
+    #poliv .content .right img {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #utp .w-utp.rasprodazha .sticker-spec {
+        display: none;
+    }
+    #utp .w-utp.rasprodazha h1 {
+        font-size: 28px;
+    }
+    #utp .w-utp.rasprodazha h1 span {
+        font-size: 21px;
+    }
+    #utp .w-utp.rasprodazha .plashka {
+        margin: 0 auto;
+    }
+    #utp .presentsLine .cont .leikaImg {
+        display: none;
+    }
+    #utp .utp h1 {
+        font-size: 27px;
+        padding-bottom: 30px;
+    }
+    #utp .utp h1 span {
+        font-size: 25px;
+    }
+    #utp .utp .warning {
+        margin-bottom: 30px;
+        font-size: 14px;
+    }
+
+    #utp .w-utp h1 br {
+        display: none;
+    }
+
+    #utp .w-utp h1 span::after {
+        content: '';
+    }
+
+    #utp .w-utp.belzavod h1 + p span{
+        text-align: center;
+    }
+
+    #utp .w-utp h1 + p img {
+        display: none;
+    }
+
+    #utp .w-utp .stickers {
+        flex-wrap: wrap;
+    }
+    #utp .w-utp .stickers .sale, 
+    #utp .w-utp .stickers .free-dost {
+        width: 100%;
+        max-width: 200px;
+        font-size: 14px;
+    }
+    #utp .w-utp .stickers .sale p:last-child span {
+        font-size: 26px;
+    }
+    #utp .w-utp .stickers .free-dost p:last-child {
+        font-size: 18px;
+    }
+    #utp .w-utp.rasprodazha + .w-hranenie p::before,
+    #utp .w-utp.rasprodazha + .w-hranenie p::after {
+        content: '';
+    }
+    #utp .presentsLine .plashka {
+        padding: 30px 20px;
+    }
+    #utp .presentsLine .plashka button {
+        display: inline-block;
+        width: auto;
+        font-size: 16px;
+        padding: 10px;
+        height: auto;
+        line-height: 1;
+    }
+    #utp .utp .action {
+        margin: 20px 5px;
+    }
+    #utp .salesBlock .content .image {
+        display: none;
+    }
+    #utp .salesBlock .content .form {
+        width: 80%;
+    }
+
+    #kalkulator .step6 h3 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    #kalkulator .step6 .input {
+        margin-bottom: 10px;
+    }
+    #kalkulator .step6 nav .button {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding: 10px 15px;
+        font-size: 18px;
+        max-width: 100%;
+        font-size: 16px;
+    }
+    #kalkulator .step6 nav .prev {
+        top: 60px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    #kalkulator h2 {
+        font-size: 18px;
+    }
+    #kalkulator .description {
+        font-size: 16px;
+    }
+    #kalkulator h3 {
+        font-size: 16px;
+    }
+    #kalkulator .question {
+        font-size: 16px;
+        padding: 7px 0;
+    }
+    #kalkulator .step5 ul li {
+        width: 70%;
+    }
+    #kalkulator .step1 ul {
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #kalkulator .step1 ul li {
+        width: 33%;
+    }
+    #kalkulator .step5 .nota {
+        font-size: 14px;
+    }
+    #kalkulator .step5 .nota2 {
+        font-size: 12px;
+    }
+    #gost .mobile-content .mobile-img .garantt {
+        top: 50%;
+    }
+    #dont_know .n_know_data p:first-child {
+        font-size: 25px;
+    }
+    #dont_know .n_know_data p:last-child {
+        font-size: 20px;
+    }
+    #dont_know .n_know_data {
+        padding: 20px;
+    }
+    #dont_know .n_know_contact .r form button {
+        font-size: 16px;
+    }
+    #dont_know .n_know_contact .l p {
+        margin-bottom: 0;
+    }
+    #eit .eit_title {
+        font-size: 18px;
+    }
+    #eit .eit_resilt .title_result {
+        font-size: 20px;
+    }
+    #eit .eit_cont .iet_item {
+        padding: 10px;
+        width: 50%;
+    }
+    #eit .eit_cont .iet_item p {
+        font-size: 14px;
+    }
+    #eit .eit_cont .iet_item img {
+        width: 50%;
+        margin-bottom: 10px;
+    }
+    #eit .eit_resilt .result_cont a img {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 365px) {
+    #utp .w-hranenie p::before,
+    #utp .w-hranenie p::after {
+        content: '';
+    }
+}
+@media screen and (max-width: 360px) {
+    #utp .header .worktime {
+        display: none;
+    }
+    #utp .header .sitename {
+        clear: both;
+        padding-top: 5px;
+    }
+    #utp .header .contacts {
+        margin-top: -45px;
+    }
+    #utp .header {
+        padding: 10px 10px 0;
+    }
+}

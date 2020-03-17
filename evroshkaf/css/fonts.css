@@ -1,0 +1,10 @@
+@font-face {
+    font-family: SNarow; /* Имя шрифта */
+    src: url('../font/ptsansnarrow/PT_Sans-Narrow-Web-Regular.ttf'); /* Путь к файлу со шрифтом */
+   }
+p{
+font-family: 'SNarow';
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
+font-family: 'SNarow' !important;
+}

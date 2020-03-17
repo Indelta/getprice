@@ -1,0 +1,269 @@
+[16-Jan-2019 17:47:57 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 17:47:57 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 17:47:57 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 17:47:57 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 17:47:57 Europe/Moscow] PHP Notice:  Undefined variable: style in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 20
+[16-Jan-2019 17:47:57 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 17:47:57 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 17:47:59 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 17:48:00 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 17:48:12 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 17:48:12 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 17:48:12 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 17:48:12 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 17:48:12 Europe/Moscow] PHP Notice:  Undefined variable: style in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 20
+[16-Jan-2019 17:48:12 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 17:48:12 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 17:48:14 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 17:48:14 Europe/Moscow] PHP Notice:  Undefined index: type in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 58
+[16-Jan-2019 17:48:15 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 17:48:32 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 17:48:32 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 17:48:32 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 17:48:32 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 17:48:32 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 17:48:32 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 17:48:33 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 17:48:34 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 17:49:05 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 17:49:05 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 17:49:05 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 17:49:05 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 17:49:05 Europe/Moscow] PHP Notice:  Undefined variable: style in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 20
+[16-Jan-2019 17:49:05 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 17:49:05 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 17:49:06 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 17:49:07 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 17:49:29 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 17:49:29 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 17:49:29 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 17:49:29 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 17:49:29 Europe/Moscow] PHP Notice:  Undefined variable: style in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 20
+[16-Jan-2019 17:49:29 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 17:49:29 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 17:49:30 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 17:49:31 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 17:49:45 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 17:49:45 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 17:49:45 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 17:49:45 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 17:49:45 Europe/Moscow] PHP Notice:  Undefined variable: style in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 20
+[16-Jan-2019 17:49:45 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 17:49:45 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 17:49:47 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 17:49:48 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 17:50:09 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 17:50:09 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 17:50:09 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 17:50:09 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 17:50:09 Europe/Moscow] PHP Notice:  Undefined variable: style in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 20
+[16-Jan-2019 17:50:09 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 17:50:09 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 17:50:11 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 17:50:11 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 17:50:19 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 17:50:19 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 17:50:19 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 17:50:19 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 17:50:19 Europe/Moscow] PHP Notice:  Undefined variable: style in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 20
+[16-Jan-2019 17:50:19 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 17:50:19 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 17:50:21 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 17:50:22 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 17:50:33 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 17:50:33 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 17:50:33 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 17:50:33 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 17:50:33 Europe/Moscow] PHP Notice:  Undefined variable: style in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 20
+[16-Jan-2019 17:50:33 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 17:50:33 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 17:50:35 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 17:50:36 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 17:54:43 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 17:54:43 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 17:54:43 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 17:54:43 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 17:54:43 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 17:54:43 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 17:54:45 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 17:54:45 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 17:55:33 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 17:55:33 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 17:55:33 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 17:55:33 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 17:55:33 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 17:55:33 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 17:55:35 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 17:55:35 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 17:56:58 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 17:56:58 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 17:56:58 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 17:56:58 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 17:56:58 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 17:56:58 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 17:57:00 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 17:57:01 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 17:57:40 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 17:57:40 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 17:57:40 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 17:57:40 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 17:57:40 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 17:57:40 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 17:57:42 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 17:57:42 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 17:58:14 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 17:58:14 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 17:58:14 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 17:58:14 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 17:58:14 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 17:58:14 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 17:58:16 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 17:58:17 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 17:59:07 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 17:59:07 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 17:59:07 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 17:59:07 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 17:59:07 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 17:59:07 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 17:59:09 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 17:59:10 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 18:02:25 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 18:02:25 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 18:02:25 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 18:02:25 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 18:02:25 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 18:02:25 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 18:02:27 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 18:02:28 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 18:04:29 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 18:04:29 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 18:04:29 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 18:04:29 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 18:04:29 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 18:04:29 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 18:04:31 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 18:04:32 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 18:09:30 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 18:09:30 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 18:09:30 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 18:09:30 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 18:09:30 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 18:09:30 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 18:09:32 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 18:09:33 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 18:13:22 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 18:13:22 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 18:13:22 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 18:13:22 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 18:13:22 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 18:13:22 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 18:13:24 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 18:13:25 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 18:16:48 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 18:16:48 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 18:16:48 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 18:16:48 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 18:16:48 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 18:16:48 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 18:16:50 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 18:16:50 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 18:17:27 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 18:17:27 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 18:17:27 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 18:17:27 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 18:17:27 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 18:17:27 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 18:17:29 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 18:17:30 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 18:18:16 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 18:18:16 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 18:18:16 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 18:18:16 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 18:18:16 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 18:18:16 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 18:18:18 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 18:18:18 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 18:22:21 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 18:22:21 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 18:22:21 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 18:22:21 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 18:22:21 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 18:22:21 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 18:22:23 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 18:22:24 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 18:26:37 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 18:26:37 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 18:26:37 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 18:26:37 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 18:26:37 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 18:26:37 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 18:26:39 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 18:26:40 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 18:27:16 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 18:27:16 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 18:27:16 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 18:27:16 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 18:27:16 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 18:27:16 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 18:27:18 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 18:27:18 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 18:28:24 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 18:28:24 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 18:28:24 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 18:28:24 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 18:28:24 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 18:28:24 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 18:28:25 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 18:28:26 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 18:29:23 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 18:29:23 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 18:29:23 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 18:29:23 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 18:29:23 Europe/Moscow] PHP Notice:  Undefined variable: style in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 20
+[16-Jan-2019 18:29:23 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 18:29:23 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 18:29:25 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 18:29:25 Europe/Moscow] PHP Notice:  Undefined index: type in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 58
+[16-Jan-2019 18:29:26 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 18:31:32 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 18:31:32 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 18:31:32 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 18:31:32 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 18:31:32 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 18:31:32 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 18:31:34 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 18:31:35 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 18:32:50 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 18:32:50 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 18:32:50 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 18:32:50 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 18:32:50 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 18:32:50 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 18:32:52 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 18:32:53 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 18:33:49 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 18:33:49 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 18:33:49 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 18:33:49 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 18:33:49 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 18:33:49 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 18:33:51 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 18:33:51 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 18:34:38 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 18:34:38 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 18:34:38 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 18:34:38 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 18:34:38 Europe/Moscow] PHP Notice:  Undefined variable: style in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 20
+[16-Jan-2019 18:34:38 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 18:34:38 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 18:34:40 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 18:34:40 Europe/Moscow] PHP Notice:  Undefined index: type in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 58
+[16-Jan-2019 18:34:41 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72
+[16-Jan-2019 18:34:49 Europe/Moscow] PHP Notice:  Undefined variable: name in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 11
+[16-Jan-2019 18:34:49 Europe/Moscow] PHP Notice:  Undefined variable: forma in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 12
+[16-Jan-2019 18:34:49 Europe/Moscow] PHP Notice:  Undefined variable: tip in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 18
+[16-Jan-2019 18:34:49 Europe/Moscow] PHP Notice:  Undefined variable: razmer in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 19
+[16-Jan-2019 18:34:49 Europe/Moscow] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 21
+[16-Jan-2019 18:34:49 Europe/Moscow] PHP Notice:  Undefined variable: easyeay in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 22
+[16-Jan-2019 18:34:51 Europe/Moscow] PHP Notice:  Undefined variable: crmMes in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 57
+[16-Jan-2019 18:34:51 Europe/Moscow] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in C:\xampp\htdocs\getprice\kuhni-modul\mail\leads.php on line 72

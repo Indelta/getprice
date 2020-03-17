@@ -1,0 +1,1749 @@
+/* line 5, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+/* line 22, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+html {
+    line-height: 1;
+}
+
+input {
+    padding: 0 5px;
+}
+
+/* line 24, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+    list-style: none;
+}
+
+/* line 26, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* line 28, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+    text-align: left;
+    font-weight: normal;
+    vertical-align: middle;
+}
+
+/* line 30, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+    quotes: none;
+}
+
+/* line 103, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+    content: "";
+    content: none;
+}
+
+/* line 32, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+a img {
+    border: none;
+}
+
+/* line 116, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+
+@font-face {
+    font-family: 'PT Sans', sans-serif;
+}
+
+@font-face {
+    font-family: IntroRegular;
+    src: url("../fonts/intro_regular.ttf");
+}
+
+@font-face {
+    font-family: IntroBold;
+    src: url("../fonts/intro_bold.ttf");
+}
+
+@font-face {
+    font-family: IntroBlack;
+    src: url("../fonts/intro_black.ttf");
+}
+
+/* line 24, ../sass/styles.scss */
+button, input {
+    outline: none !important;
+}
+
+/* line 28, ../sass/styles.scss */
+.row_960 {
+    width: 960px;
+    margin: 0 auto !important;
+}
+
+/* line 33, ../sass/styles.scss */
+#utp {
+    height: 768px;
+    background: url("../images/utp_bg.jpg") center no-repeat;
+}
+
+#utp .head.row_960{
+    position: relative;
+    height: 114px;
+}
+
+#utp .head.row_960:after{
+    display: none;
+    content: url("../images/flag.png");
+    position: absolute;
+    top: 116px;
+    left: 300px;
+
+}
+
+/* line 36, ../sass/styles.scss */
+#utp .head {
+    padding-top: 14px;
+}
+
+/* line 38, ../sass/styles.scss */
+#utp .head .logo {
+    float: left;
+    width: 360px;
+    height: 100px;
+    text-align: left;
+}
+
+#utp .head .logo img{
+    height: 100%;
+    display: block;
+    float: left;
+}
+
+#utp .head .logo p{
+    font-family: "PT Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+/* line 43, ../sass/styles.scss */
+#utp .head .times {
+    float: left;
+    color: #222;
+    margin-left: 90px;
+    font-family: "PT Sans", sans-serif;
+    margin-top: 10px;
+    font-size: 19px;
+    line-height: 21px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.stic {
+    background: url("../images/stickerRus2.png") center no-repeat;
+    width: 233px;
+    height: 233px;
+    position: absolute;
+    right: 80px;
+    top: 50px;
+    cursor: pointer;
+}
+
+/* line 53, ../sass/styles.scss */
+#utp .head .phones {
+    float: right;
+    text-align: right;
+    text-shadow: 0 2px 2px #fff;
+    color: #222;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+}
+
+/* line 60, ../sass/styles.scss */
+#utp .head .phones .phone {
+    /*background: url("../images/velc.png") left center no-repeat;*/
+    font-size: 25px;
+}
+
+/* line 63, ../sass/styles.scss */
+#utp .head .phones .phone span {
+    font-size: 31px;
+}
+
+/* line 67, ../sass/styles.scss */
+#utp .head .phones button {
+    width: 266px;
+    font-family: IntroBold;
+    text-shadow: 0 1px 5px rgba(0, 0, 0, 0.35);
+    color: #fff;
+    font-size: 19px;
+    font-weight: 400;
+    height: 42px;
+    border-radius: 5px;
+    background: url("../images/button_bg.jpg") repeat-x;
+    border: none;
+}
+
+/* line 81, ../sass/styles.scss */
+#utp .utp_text {
+    text-shadow: 0 2px 2px #000;
+    color: #fff;
+    font-family: IntroBlack;
+    font-weight: 400;
+    width: 550px;
+    margin-top: 50px;
+    text-transform: uppercase;
+}
+
+/* line 89, ../sass/styles.scss */
+#utp .utp_text p:first-child {
+    font-size: 50px;
+    line-height: 50px;
+    margin: 0;
+}
+
+/* line 94, ../sass/styles.scss */
+#utp .utp_text p:nth-child(2) {
+    font-size: 31px;
+    line-height: 31px;
+}
+
+/* line 98, ../sass/styles.scss */
+#utp .utp_text .green_bl {
+    width: 407px;
+    height: 220px;
+    background-color: rgba(39, 89, 6, 0.59);
+    text-shadow: 0 2px 2px #000;
+    color: #fff;
+    font-family: IntroBold;
+    margin-top: 30px;
+    font-size: 25px;
+    font-weight: 400;
+    text-transform: none;
+    padding: 7px;
+}
+
+/* line 110, ../sass/styles.scss */
+#utp .utp_text .green_bl p {
+    padding: 15px 0 15px 80px;
+}
+
+/* line 113, ../sass/styles.scss */
+#utp .utp_text .green_bl p:first-child {
+    font-size: 25px;
+    line-height: 25px;
+    background: url("../images/gr1.png") left center no-repeat;
+}
+
+#utp .utp_cont {
+    position: relative;
+}
+
+/* line 118, ../sass/styles.scss */
+#utp .utp_text .green_bl p:last-child {
+    font-size: 25px;
+    line-height: 25px;
+    background: url("../images/gr2.png") left center no-repeat;
+}
+
+/* line 125, ../sass/styles.scss */
+#utp .utp_akc {
+    position: relative;
+}
+
+/* line 127, ../sass/styles.scss */
+#utp .utp_akc p {
+    font-family: "PT Sans", sans-serif;
+    color: #222;
+    position: relative;
+    font-size: 25px;
+    float: right;
+    margin-top: 25px;
+    font-weight: 400;
+    text-transform: uppercase;
+    width: 630px;
+}
+
+/* line 137, ../sass/styles.scss */
+#utp .utp_akc p span {
+    color: #222;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/* line 141, ../sass/styles.scss */
+#utp .utp_akc p span i {
+    color: #c23123;
+}
+
+/* line 146, ../sass/styles.scss */
+#utp .utp_akc button {
+    width: 355px;
+    height: 39px;
+    background: url("../images/bg_b_c.png") repeat-x;
+    border: none;
+    position: absolute;
+    border-radius: 5px;
+    right: 50px;
+    bottom: 6px;
+    text-shadow: 0 1px 5px rgba(0, 0, 0, 0.35);
+    color: #fff;
+    font-family: IntroBold;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+/* line 164, ../sass/styles.scss */
+#eit {
+    height: 1150px;
+    background: url("../images/eit_bg.jpg") center no-repeat;
+}
+
+/* line 167, ../sass/styles.scss */
+#eit .eit_title {
+    margin: 30px 0px;
+    text-align: center;
+    text-shadow: 0 2px 2px #fff;
+    color: #000;
+    font-size: 28px;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-family: IntroBold;
+    color: #000;
+    font-size: 28px;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-family: IntroBold;
+}
+
+/* line 181, ../sass/styles.scss */
+#eit .eit_title span {
+    font-family: IntroRegular;
+}
+
+/* line 185, ../sass/styles.scss */
+#eit .eit_cont {
+    float: left;
+    width: 100%;
+}
+
+/* line 188, ../sass/styles.scss */
+#eit .eit_cont .iet_item {
+    text-align: center;
+    float: left;
+    width: 200px;
+    height: 220px;
+    margin: 35px 20px 24px;
+}
+
+/* line 194, ../sass/styles.scss */
+#eit .eit_cont .iet_item img {
+    margin-bottom: 20px;
+}
+
+/* line 197, ../sass/styles.scss */
+#eit .eit_cont .iet_item p {
+    color: #222;
+    font-family: "PT Sans", sans-serif;
+    font-size: 23px;
+    line-height: 23px;
+    font-weight: 700;
+}
+
+/* line 206, ../sass/styles.scss */
+#eit .eit_resilt {
+    float: left;
+    width: 100%;
+    margin-top: 110px;
+}
+
+/* line 210, ../sass/styles.scss */
+#eit .eit_resilt .title_result {
+    text-shadow: 0 2px 2px #fff;
+    color: #000;
+    font-family: IntroRegular;
+    font-size: 25px;
+    font-weight: 400;
+    margin: 10px 0px 10px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/* line 220, ../sass/styles.scss */
+#eit .eit_resilt .result_cont {
+    padding: 0 140px;
+}
+
+/* line 224, ../sass/styles.scss */
+#eit .eit_resilt .result_cont a:first-child img {
+    margin-right: 60px;
+}
+
+/* line 233, ../sass/styles.scss */
+#why {
+    height: 620px;
+    background: url("../images/why_bg.jpg") center no-repeat;
+}
+
+/* line 236, ../sass/styles.scss */
+#why .why_title {
+    color: #fff;
+    font-family: IntroBold;
+    font-size: 36px;
+    font-weight: 400;
+    margin: 30px 0;
+    line-height: 40px;
+    text-align: center;
+}
+
+/* line 246, ../sass/styles.scss */
+#why .why_cont .safsd {
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 700;
+    line-height: 40px;
+}
+
+/* line 254, ../sass/styles.scss */
+#why .why_cont .why_spis {
+    margin-top: 80px;
+    float: left;
+    font-family: "PT Sans", sans-serif;
+    width: 670px;
+}
+
+/* line 258, ../sass/styles.scss */
+#why .why_cont .why_spis p {
+    color: #fff;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 31px;
+}
+
+/* line 263, ../sass/styles.scss */
+#why .why_cont .why_spis p span {
+    color: #fe8d01;
+    font-size: 29px;
+    font-weight: 700;
+}
+
+/* line 270, ../sass/styles.scss */
+#why .why_cont .why_imgs {
+    float: right;
+    width: 240px;
+}
+
+/* line 273, ../sass/styles.scss */
+#why .why_cont .why_imgs img {
+    display: block;
+    float: left;
+    margin-bottom: 20px;
+}
+
+/* line 283, ../sass/styles.scss */
+#craft {
+    background: url("../images/craft_bg.jpg") bottom right no-repeat;
+    height: 920px;
+}
+
+/* line 287, ../sass/styles.scss */
+#craft .craft_title {
+    text-align: left;
+    color: #000;
+    margin: 30px 0 15px;
+    font-family: IntroBold;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+/* line 296, ../sass/styles.scss */
+#craft .craft_cont p {
+    color: #222;
+    font-family: "PT Sans", sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+}
+
+/* line 301, ../sass/styles.scss */
+#craft .craft_cont p span {
+    color: #fb2222;
+    font-family: "PT Sans", sans-serif;
+    font-size: 29px;
+    font-weight: 700;
+}
+
+/* line 307, ../sass/styles.scss */
+#craft .craft_cont p i {
+    padding-left: 34px;
+}
+
+/* line 312, ../sass/styles.scss */
+#craft .craft_imgs {
+    margin-top: 20px;
+}
+
+/* line 314, ../sass/styles.scss */
+#craft .craft_imgs p:first-child {
+    color: #222;
+    font-family: IntroBold;
+    font-size: 21px;
+    font-weight: 400;
+    text-align: center;
+}
+
+/* line 321, ../sass/styles.scss */
+#craft .craft_imgs img {
+    float: left;
+    margin-bottom: 18px;
+    margin: 0 5px 18px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    transition: 300ms all ease 10ms;
+}
+
+/* line 329, ../sass/styles.scss */
+#craft .craft_imgs img:hover {
+    box-shadow: 0 0 10px #676767;
+}
+
+/* line 332, ../sass/styles.scss */
+#craft .craft_imgs .craft_contact {
+    float: left;
+    /*background: url("../images/craft_qst.jpg") center no-repeat;*/
+    background-color: #e6e6e6;
+    width: 100%;
+}
+
+/* line 336, ../sass/styles.scss */
+#craft .craft_imgs .craft_contact .l {
+    float: left;
+    height: 117px;
+    text-align: center;
+    width: 260px;
+    text-shadow: 0 2px 2px #fff;
+    color: #000;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    padding-top: 10px;
+}
+
+/* line 345, ../sass/styles.scss */
+#craft .craft_imgs .craft_contact .l p:first-child {
+    font-size: 25px;
+}
+
+/* line 348, ../sass/styles.scss */
+#craft .craft_imgs .craft_contact .l p:last-child {
+    font-size: 31px;
+    /*background: url("../images/velc.png") left center no-repeat;*/
+}
+
+/* line 353, ../sass/styles.scss */
+#craft .craft_imgs .craft_contact .r {
+    /*float: right;*/
+    padding-top: 10px;
+    /*width: 593px;*/
+    height: 117px;
+    margin-left: 260px;
+}
+
+/* line 358, ../sass/styles.scss */
+#craft .craft_imgs .craft_contact .r p:first-child {
+    text-shadow: 0 2px 2px #fff;
+    color: #000;
+    font-family: "PT Sans", sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+}
+
+/* line 366, ../sass/styles.scss */
+#craft .craft_imgs .craft_contact .r form {
+    width: 100%;
+    padding: 0 25px;
+}
+
+/* line 369, ../sass/styles.scss */
+#craft .craft_imgs .craft_contact .r form input {
+    width: 170px;
+    margin-right: 10px;
+    height: 36px;
+    background-color: #fff;
+    border: 2px solid #c43324;
+    float: left;
+}
+
+/* line 376, ../sass/styles.scss */
+#craft .craft_imgs .craft_contact .r form button {
+    float: right;
+    background: url("../images/bg_b_c.png") repeat-x;
+    text-shadow: 0 1px 5px rgba(0, 0, 0, 0.35);
+    color: #fff;
+    font-family: IntroBold;
+    font-size: 19px;
+    font-weight: 400;
+    text-align: center;
+    width: 290px;
+    height: 36px;
+    border-radius: 5px;
+    border: none;
+}
+
+/* line 396, ../sass/styles.scss */
+#catalog {
+    background: url("../images/catal_bg.jpg") center repeat-y;
+}
+
+/* line 399, ../sass/styles.scss */
+#catalog .catalog_title {
+    color: #c43324;
+    font-family: IntroBold;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: center;
+    margin: 40px 0 50px;
+}
+
+/* line 409, ../sass/styles.scss */
+#catalog .catalog_cont .product {
+    width: 465px;
+    position: relative;
+    float: left;
+    margin-bottom: 30px;
+    margin-right: 30px;
+}
+
+#catalog .catalog_cont .product.horizont{
+    width: 100%;
+    position: relative;
+    float: none;
+    margin-bottom: 30px;
+    margin-right: 0;
+    clear: both;
+}
+
+
+#catalog .catalog_cont .product.horizont .leftPart{
+    width: 372px;
+    float: left;
+    position: relative;
+}
+
+#catalog .catalog_cont .product.horizont .rightPart{
+    margin-left: 365px;
+    background-color: white;
+    height: 279px;
+    box-sizing: border-box;
+}
+
+#catalog .catalog_cont .product.horizont .rightPart form{
+    padding: 5px;
+    box-sizing: border-box;
+    width: 414px;
+    margin: auto;
+    padding-top: 15px;
+}
+
+#catalog .catalog_cont .product.horizont .rightPart .pr_gr{
+    margin: 0 0 5px 0;
+}
+
+#catalog .catalog_cont .product.horizont .desc{
+    height: auto;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+#catalog .catalog_cont .product.horizont .desc ul li{
+    font-size: 18px;
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+}
+
+#catalog .catalog_cont .product.horizont .desc ul li:before{
+    content: "";
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    margin-right: 10px;
+    background-color: #0a8b39;
+    border-radius: 100%;
+}
+
+#catalog .catalog_cont .product.horizont .send_catal,
+#catalog .catalog_cont .product.horizont .send_catal_karkas{
+    width: 405px;
+    height: 50px;
+    border-radius: 5px;
+    background: url(../images/catal_but.png) repeat-x center;
+    text-shadow: 0 1px 5px rgba(0, 0, 0, 0.35);
+    color: #fff;
+    font-family: IntroBold;
+    font-size: 25px;
+    font-weight: 400;
+    border: none;
+    margin: 10px 0;
+    margin: auto;
+    display: block;
+    margin-top: 10px;
+
+}
+
+/* line 415, ../sass/styles.scss */
+#catalog .catalog_cont .product .count {
+    position: absolute;
+    width: auto;
+    height: auto;
+    background-color: rgba(196, 51, 36, 0.8);
+    color: #fff;
+    font-family: "PT Sans", sans-serif;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 24px;
+    text-transform: uppercase;
+    padding: 15px;
+    top: 180px;
+    right: 0;
+}
+
+/* line 429, ../sass/styles.scss */
+#catalog .catalog_cont .product .luchsh {
+    position: absolute;
+    width: auto;
+    height: auto;
+    background-color: rgba(196, 51, 36, 0.8);
+    color: #fff;
+    font-family: "PT Sans", sans-serif;
+    padding: 15px;
+    font-size: 23px;
+    line-height: 23px;
+    font-weight: 700;
+    text-transform: uppercase;
+    top: 310px;
+    right: 0;
+}
+
+/* line 444, ../sass/styles.scss */
+#catalog .catalog_cont .product p:nth-child(1) {
+    text-align: center;
+    color: #222;
+    font-family: IntroBold;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 40px;
+}
+
+/* line 452, ../sass/styles.scss */
+#catalog .catalog_cont .product img {
+    height: auto;
+    width: 100%;
+}
+#catalog .catalog_cont .product img.sold {
+    height: auto;
+    position: absolute;
+    bottom: 20px;
+    left: 95px;
+}
+
+#catalog .catalog_cont .product .description{
+    color: #222;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    line-height: 21px;
+    margin-bottom: 20px;
+    text-align: left;
+    font-size: 21px;
+}
+
+/* line 455, ../sass/styles.scss */
+#catalog .catalog_cont .product .desc {
+    height: 530px;
+    background: #fff;
+    padding: 20px;
+}
+
+/*#catalog .catalog_cont .product.product3 .desc,*/
+/*#catalog .catalog_cont .product.product4 .desc{*/
+    /*height: 560px;*/
+/*}*/
+
+#catalog .catalog_cont .productSold .desc{
+    position: relative;
+    height: 530px;
+}
+
+/* line 459, ../sass/styles.scss */
+#catalog .catalog_cont .product .desc p:nth-child(1) {
+    color: #222;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    line-height: 21px;
+    margin-bottom: 20px;
+    text-align: left;
+    font-size: 21px;
+}
+
+/* line 468, ../sass/styles.scss */
+#catalog .catalog_cont .product .desc ul {
+    list-style-image: url("../images/listp.png");
+    margin-left: 30px;
+}
+
+/* line 471, ../sass/styles.scss */
+#catalog .catalog_cont .product .desc ul li {
+    color: #222;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-size: 19px;
+}
+
+/* line 478, ../sass/styles.scss */
+#catalog .catalog_cont .product .desc form {
+    padding: 0px;
+    margin: auto;
+    margin-top: 15px;
+    padding-bottom: 15px;
+    width: 405px;
+    position: absolute;
+    bottom: 0;
+    left: 33px;
+}
+
+#catalog .catalog_cont .product .desc form .pr_gr{
+    margin-bottom: 5px;
+}
+
+/* line 483, ../sass/styles.scss */
+#catalog .catalog_cont .product form .pr_gr label {
+    color: #222;
+    font-family: "PT Sans", sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+/* line 489, ../sass/styles.scss */
+#catalog .catalog_cont .product form .pr_gr input {
+    width: 100%;
+    height: 35px;
+    background-color: #fff;
+    border: 2px solid #c43324;
+}
+
+#catalog .catalog_cont .product form .pr_gr select {
+    width: 100%;
+    height: 35px;
+    background-color: #fff;
+    border: 2px solid #c43324;
+    outline: none;
+}
+
+/* line 496, ../sass/styles.scss */
+#catalog .catalog_cont .product .desc form button {
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    background: url("../images/catal_but.png") repeat-x center;
+    text-shadow: 0 1px 5px rgba(0, 0, 0, 0.35);
+    color: #fff;
+    font-family: IntroBold;
+    font-size: 25px;
+    font-weight: 400;
+    border: none;
+    margin: 10px 0;
+}
+
+/* line 512, ../sass/styles.scss */
+#catalog .catalog_cont .product:nth-child(2n+0) {
+    margin-right: 0;
+}
+
+/* line 518, ../sass/styles.scss */
+#dont_know {
+    background: url("../images/dont_know_bg.jpg") center no-repeat;
+    height: 520px;
+}
+
+/* line 521, ../sass/styles.scss */
+#dont_know .n_know_data {
+    width: 444px;
+    height: 223px;
+    background-color: rgba(255, 255, 255, 0.8);
+    float: left;
+    padding: 30px 0 0 20px;
+    margin: 60px 0 0;
+}
+
+/* line 528, ../sass/styles.scss */
+#dont_know .n_know_data p:first-child {
+    color: #000;
+    font-size: 38px;
+    font-weight: 400;
+    line-height: 40px;
+    font-family: IntroBold;
+    text-transform: uppercase;
+}
+
+/* line 536, ../sass/styles.scss */
+#dont_know .n_know_data p:last-child {
+    color: #000;
+    font-size: 38px;
+    font-weight: 400;
+    line-height: 38px;
+    font-family: IntroRegular;
+}
+
+/* line 544, ../sass/styles.scss */
+#dont_know .n_know_contact {
+    float: left;
+    width: 100%;
+    height: 117px;
+    margin: 40px 0;
+    /*background: url("../images/consult_bg.png") center no-repeat;*/
+    background-color: #e6e6e6;
+}
+
+/* line 550, ../sass/styles.scss */
+#dont_know .n_know_contact .l {
+    float: left;
+    height: 117px;
+    text-align: center;
+    width: 260px;
+    text-shadow: 0 2px 2px #fff;
+    color: #000;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    padding-top: 10px;
+}
+
+/* line 561, ../sass/styles.scss */
+#dont_know .n_know_contact .l p:first-child {
+    font-size: 25px;
+}
+
+/* line 564, ../sass/styles.scss */
+#dont_know .n_know_contact .l p:last-child {
+    font-size: 31px;
+    /*background: url("../images/velc.png") left center no-repeat;*/
+}
+
+/* line 569, ../sass/styles.scss */
+#dont_know .n_know_contact .r {
+    /*float: right;*/
+    padding-top: 10px;
+    /*width: 593px;*/
+    height: 117px;
+    margin-left: 260px;
+}
+
+/* line 574, ../sass/styles.scss */
+#dont_know .n_know_contact .r p:first-child {
+    text-shadow: 0 2px 2px #fff;
+    color: #000;
+    font-family: "PT Sans", sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+}
+
+/* line 582, ../sass/styles.scss */
+#dont_know .n_know_contact .r form {
+    width: 100%;
+    padding: 0 25px;
+}
+
+/* line 585, ../sass/styles.scss */
+#dont_know .n_know_contact .r form input {
+    width: 170px;
+    margin-right: 10px;
+    height: 36px;
+    background-color: #fff;
+    border: 2px solid #c43324;
+    float: left;
+}
+
+/* line 592, ../sass/styles.scss */
+#dont_know .n_know_contact .r form button {
+    float: right;
+    background: url("../images/bg_b_c.png") repeat-x;
+    text-shadow: 0 1px 5px rgba(0, 0, 0, 0.35);
+    color: #fff;
+    font-family: IntroBold;
+    font-size: 19px;
+    font-weight: 400;
+    text-align: center;
+    width: 290px;
+    height: 36px;
+    border-radius: 5px;
+    border: none;
+}
+
+/* line 611, ../sass/styles.scss */
+#how {
+    height: 494px;
+    background: url("../images/how_work_bg.jpg") center no-repeat;
+}
+
+/* line 614, ../sass/styles.scss */
+#how .how_title {
+    color: #000;
+    font-family: IntroBold;
+    font-size: 38px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* line 624, ../sass/styles.scss */
+#how .how_cont .how_item {
+    float: left;
+    width: 160px;
+    margin: 20px 16px;
+    text-align: center;
+}
+
+/* line 630, ../sass/styles.scss */
+#how .how_cont .how_item p {
+    text-shadow: 0 2px 2px #fff;
+    color: #000;
+    font-family: "PT Sans", sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+}
+
+/* line 641, ../sass/styles.scss */
+#clients {
+    height: 367px;
+    background: url("../images/clients_bg.jpg") center no-repeat;
+}
+
+/* line 644, ../sass/styles.scss */
+#clients .clients_title {
+    color: #000;
+    font-family: IntroBold;
+    font-size: 38px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* line 654, ../sass/styles.scss */
+#clients .clients_cont .carousel-inner {
+    position: relative;
+    overflow: hidden;
+    width: 740px;
+    margin: 0 auto;
+}
+
+/* line 660, ../sass/styles.scss */
+#clients .clients_cont .carousel-inner .item .img_client {
+    float: left;
+}
+
+/* line 662, ../sass/styles.scss */
+#clients .clients_cont .carousel-inner .item .img_client img {
+    height: 220px;
+}
+
+/* line 666, ../sass/styles.scss */
+#clients .clients_cont .carousel-inner .item .data_client {
+    float: right;
+    width: 500px;
+}
+
+/* line 669, ../sass/styles.scss */
+#clients .clients_cont .carousel-inner .item .data_client p:nth-child(1) {
+    color: #222;
+    font-family: "PT Sans", sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+/* line 675, ../sass/styles.scss */
+#clients .clients_cont .carousel-inner .item .data_client p:nth-child(2) {
+    color: #222;
+    font-family: "PT Sans", sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 20px;
+    font-weight: 400;
+}
+
+/* line 689, ../sass/styles.scss */
+#sert {
+    display: none;
+    background: url(../images/sert_bg.jpg) center no-repeat;
+    height: auto;
+    padding-bottom: 40px;
+    background-size: cover;
+}
+
+#sert .sert_title{
+    color: #000;
+    font-family: IntroBold;
+    font-size: 38px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* line 692, ../sass/styles.scss */
+#sert a {
+    float: left;
+    margin: 0 9px 0;
+}
+
+/* line 695, ../sass/styles.scss */
+#sert a img {
+    border: none;
+    width: 142px;
+}
+
+/* line 702, ../sass/styles.scss */
+#foot {
+    height: 220px;
+    background: #0a8b39;
+    position: relative;
+    padding-top: 20px;
+}
+
+/* line 707, ../sass/styles.scss */
+/*#foot .logo {*/
+    /*float: left;*/
+    /*margin-top: 10px;*/
+    /*width: 360px;*/
+/*}*/
+
+/* line 712, ../sass/styles.scss */
+#foot .times {
+    float: left;
+    color: #fff;
+    margin-left: 90px;
+    font-family: "PT Sans", sans-serif;
+    margin-top: 10px;
+    font-size: 19px;
+    font-weight: 700;
+    text-align: center;
+}
+
+#foot  .logo {
+    float: left;
+    width: 360px;
+    height: 100px;
+    text-align: left;
+}
+
+#foot .logo img{
+    height: 100%;
+    display: block;
+    float: left;
+}
+
+#foot  .logo p{
+    font-family: "PT Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+/* line 722, ../sass/styles.scss */
+#foot .adrss {
+    color: #fff;
+    font-family: "PT Sans", sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+    top: 120px;
+    position: absolute;
+    margin: 10px 0;
+}
+
+/* line 730, ../sass/styles.scss */
+#foot .phones {
+    float: right;
+    text-align: right;
+    text-shadow: 0 2px 2px #fff;
+    color: #fff;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+}
+
+/* line 737, ../sass/styles.scss */
+#foot .phones .phone {
+    /*background: url("../images/velc.png") left center no-repeat;*/
+    font-size: 25px;
+    text-shadow: 0 1px 5px rgba(0, 0, 0, 0.35);
+}
+
+/* line 741, ../sass/styles.scss */
+#foot .phones .phone span {
+    font-size: 31px;
+}
+
+/* line 745, ../sass/styles.scss */
+#foot .phones button {
+    width: 266px;
+    font-family: IntroBold;
+    text-shadow: 0 1px 5px rgba(0, 0, 0, 0.35);
+    color: #fff;
+    font-size: 19px;
+    font-weight: 400;
+    height: 42px;
+    border-radius: 5px;
+    background: url("../images/button_bg.jpg") repeat-x;
+    border: none;
+}
+
+/* line 760, ../sass/styles.scss */
+#powered {
+    height: 30px;
+}
+
+/* line 762, ../sass/styles.scss */
+#powered .up {
+    width: 153px;
+    margin: -48px auto 0;
+    position: relative;
+    cursor: pointer;
+}
+
+/* line 770, ../sass/styles.scss */
+#up_form {
+    width: 265px;
+}
+
+/* line 772, ../sass/styles.scss */
+#up_form input {
+    width: 100%;
+    height: 36px;
+    padding: 0 5px;
+    margin: 5px auto;
+    display: block;
+    background-color: #fff;
+    border: 2px solid #c43324;
+    float: left;
+}
+
+/* line 782, ../sass/styles.scss */
+#up_form button {
+    width: 100%;
+    font-family: IntroBold;
+    text-shadow: 0 1px 5px rgba(0, 0, 0, 0.35);
+    color: #fff;
+    font-size: 19px;
+    margin-top: 10px;
+    font-weight: 400;
+    height: 42px;
+    border-radius: 5px;
+    background: url("../images/button_bg.jpg") repeat-x;
+    border: none;
+}
+
+/* line 795, ../sass/styles.scss */
+#up_form p:last-child {
+    color: #222;
+    font-family: IntroBold;
+    font-size: 14px;
+    margin-top: 24px;
+    text-align: center;
+    font-weight: 400;
+    background: rgba(255, 255, 255, 0.69);
+    line-height: 20px;
+}
+
+/* line 804, ../sass/styles.scss */
+#up_form p:last-child i {
+    /*background: url("../images/velc.png") left center no-repeat;*/
+    font-size: 20px;
+    line-height: 34px;
+    padding-left: 50px;
+}
+
+/* line 812, ../sass/styles.scss */
+.modal-lg {
+    width: 650px !important;
+}
+
+/* line 815, ../sass/styles.scss */
+.modal-content {
+    background: url("../images/m_bg.jpg") right bottom no-repeat;
+}
+
+/* line 819, ../sass/styles.scss */
+.modal-body p:nth-child(1) {
+    color: #222;
+    color: #222;
+    font-family: IntroBold;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 17px;
+}
+
+/* line 827, ../sass/styles.scss */
+.modal-body p:nth-child(2) {
+    color: #222;
+    font-family: IntroBold;
+    font-size: 14px;
+    font-weight: 400;
+    background: rgba(255, 255, 255, 0.69);
+    line-height: 20px;
+}
+
+#gost {
+    height: 660px;
+    background: url("../images/gost_bg.jpg") center no-repeat;
+}
+
+#gost .title {
+    width: 960px;
+    margin-top: 16px;
+    height: 79px;
+    background: rgba(255, 255, 255, 0.7);
+    text-align: center;
+    text-shadow: 0 0 20.2px #fff;
+    color: #c43324;
+    font-family: IntroBold;
+    text-transform: uppercase;
+    padding-top: 13px;
+    font-size: 38px;
+    font-weight: 400;
+}
+
+#gost .content {
+    margin-top: 20px;
+    float: left;
+    position: relative;
+}
+
+#gost .content .desc {
+    color: #000;
+    font-family: "PT Sans", sans-serif;
+    font-size: 23px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 22px;
+}
+
+#gost .content .l {
+    float: left;
+    width: 480px;
+    height: 357px;
+}
+
+#gost .content .r {
+    float: right;
+    width: 420px;
+    height: 358px;
+}
+
+#gost .content .r ul {
+    list-style-image: url("../images/li_gost.png");
+}
+
+#gost .content .r ul li {
+    color: #000;
+    font-size: 18px;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    position: relative;
+    z-index: 1;
+}
+
+.sootv {
+    color: #000;
+    font-family: "PT Sans", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    width: 190px;
+    margin-top: 10px;
+    float: left;
+    text-align: center;
+}
+
+.gost {
+    background: #ffffff;
+    position: relative;
+    width: 200px;
+    float: right;
+    height: 200px;
+    padding: 19px;
+    border-radius: 150px;
+    margin-top: -50px;
+}
+
+.gost img {
+    width: 160px;
+}
+
+.garantt {
+    width: 214px;
+    height: 214px;
+    background-color: #c43324;
+    border-radius: 150px;
+    line-height: 30px;
+    padding: 40px 0;
+    top: -172px;
+    left: 15px;
+    position: relative;
+    color: #fff;
+    font-family: "PT Sans", sans-serif;
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.garantt span {
+    font-size: 18px;
+}
+
+#gost .content form {
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin-top: 60px;
+}
+
+#gost .content form .gr {
+    float: left;
+    /*margin: 0 8px;*/
+}
+
+#gost .content form .gr input, #gost .content form .gr select {
+    width: 200px;
+    height: 36px;
+    background-color: #fff;
+    border: 2px solid #c43324;
+    outline: none;
+    margin-right: 20px;
+}
+
+#gost .content form .gr button {
+    width: 288px;
+    height: 36px;
+    background-color: #c43324;
+    border-radius: 5px;
+    color: #fefefe;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: "PT Sans", sans-serif;
+    border: none;
+}
+
+.fix_a, .fix_b {
+    position: fixed;
+    background: url("../images/fix_a.png") center no-repeat;
+    width: 150px;
+    height: 137px;
+    right: 15px;
+    top: 105px;
+    background-size: cover;
+    transition: 200ms all ease 10ms;
+    z-index: 910;
+    cursor: pointer;
+    display: none;
+}
+
+
+.fix_a.visible, .fix_b.visible{
+    display: block;
+}
+
+.fix_b{
+    background: url("../images/fix_b.png") center no-repeat;
+    height: 91px;
+    top: 310px
+}
+
+.small_a {
+    width: 60px;
+    height: 55px;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+}
+
+.small_b {
+    width: 65px;
+    height: 36px;
+    background-size: cover;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+}
+
+.close_a {
+    position: relative;
+    float: right;
+    font-size: 14px;
+    text-shadow: 1px 1px 1px #000;
+    top: -15px;
+    color: #fff;
+    font-family: "PT Sans", sans-serif;
+    cursor: pointer;
+}
+
+.fix_b .close_a{
+    top: -22px;
+}
+
+.prodano {
+    background: url("../images/prodano.png") center no-repeat;
+    position: absolute;
+    width: 470px;
+    z-index: 100;
+    top: -30px;
+    background-size: contain;
+    height: 451px;
+    transition: 300ms ease all 10ms;
+}
+
+.halv{
+    position: absolute;
+    width: 150px;
+    right: 0;
+}
+.halv img{
+    height: 140px!important;
+}
+
+.modal-header{
+    overflow: hidden;
+    border-bottom: hidden !important;
+    height: 20px;
+}
+
+.modal-body {
+    padding-top: 5px !important;
+}
+
+.modal-title{
+    display: none;
+}
+
+#doptovary{
+    padding: 10px 0;
+}
+
+#doptovary .doptovaryTitle{
+    margin-top: 20px;
+}
+
+#doptovary .doptovaryTitle p{
+    color: #000;
+    font-family: IntroBold;
+    font-size: 38px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 20px 0;
+    margin: auto;
+}
+
+#doptovary .doptovaryTitle p span{
+    color: #222;
+    font-family: "PT Sans", sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    display: block;
+}
+
+#doptovary .doptovaryCarousel{
+    margin: 30px 0;
+}
+
+#doptovary .doptovaryCarousel .owl-item{
+    text-align: center;
+    color: #222;
+    font-family: "PT Sans", sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 20px;
+    font-weight: 400;
+}
+
+#doptovary .doptovaryCarousel .owl-item .title{
+    max-width: 70%;
+    margin: 20px 0;
+    margin: auto;
+}
+
+#doptovary .doptovaryCarousel .owl-item img{
+    width: auto;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 100%;
+    border: 3px solid #ffe533;
+}
+
+.owl-prev{
+    position: absolute;
+    top: 40%;
+    left: -70px;
+    content: " ";
+    display: block;
+    border: solid transparent;
+    height: 0;
+    width: 0;
+    border-color: transparent;
+    border-right-color: #d2d2d2;
+    border-width: 30px;
+    transition: .3s;
+}
+
+.owl-prev:hover{
+    border-right-color: #FFDF00;
+}
+
+
+.owl-next{
+    position: absolute;
+    top: 40%;
+    right: -70px;
+    content: " ";
+    width: 0;
+    height: 0;
+    display: block;
+    border: solid transparent;
+    border-color: transparent;
+    border-left-color: #d2d2d2;
+    border-width: 30px;
+    transition: .3s;
+}
+
+.owl-next:hover{
+    border-left-color: #FFDF00;
+}
+
+#discount{
+    padding: 6px 0;
+    background-color: #007c35;
+}
+
+#discount .leftpart{
+    float: left;
+    width: 600px;
+    background-color: #ffc400;
+    padding: 10px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+#discount .leftpart:after{
+    left: 100%;
+    top: 0;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-color: rgba(136, 183, 213, 0);
+    border-left-color: #ffc400;
+    border-top-width: 96px;
+    border-bottom-width: 98px;
+    border-left-width: 35px;
+    margin-top: 0px;
+}
+
+#discount .leftpart p{
+     margin-left: 85px;
+     font-size: 22px;
+ }
+
+#discount .leftpart .text{
+    font-size: 26px;
+    font-weight: bold;
+    margin-left: 160px;
+}
+
+#discount .leftpart .text span{
+    display: block;
+    font-size: 97px;
+    font-weight: bold;
+    line-height: 95px;
+}
+
+#discount .leftpart .skidkaleft{
+    float: left;
+}
+#discount .leftpart .skidkaright{
+    float: right;
+}
+
+#discount .rightpart{
+    padding: 10px;
+    box-sizing: border-box;
+    margin-left: 600px;
+}
+
+#discount .rightpart form{
+    width: 340px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+#discount .rightpart form p{
+    color: white;
+    font-size: 13px;
+}
+
+#discount .rightpart form input{
+    width: 100%;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    font-size: 14px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin-bottom: 7px;
+}
+
+#discount .rightpart form button{
+    width: 100%;
+    padding: 5px 10px;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 14px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: #ffca00;
+}
+
+
+
+@media screen and (max-width: 600px){
+    #catalog .catalog_cont .product{
+        width: 100%;
+    }
+}

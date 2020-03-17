@@ -1,0 +1,20 @@
+[08-Jan-2020 18:18:52 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to a member function auth() on null in /home/getprice/public_html/mebel-cupon/sendShum.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/getprice/public_html/mebel-cupon/sendShum.php on line 63
+[08-Jan-2020 18:22:05 Europe/Minsk] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/getprice/public_html/mebel-cupon/sendShum.php on line 175
+[08-Jan-2020 18:22:05 Europe/Minsk] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/getprice/public_html/mebel-cupon/sendShum.php on line 176
+[13-Jan-2020 12:53:43 Europe/Minsk] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/getprice/public_html/mebel-cupon/sendShum.php on line 175
+[13-Jan-2020 12:53:43 Europe/Minsk] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/getprice/public_html/mebel-cupon/sendShum.php on line 176
+[13-Jan-2020 12:53:46 Europe/Minsk] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/getprice/public_html/mebel-cupon/sendShum.php on line 175
+[13-Jan-2020 12:53:46 Europe/Minsk] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/getprice/public_html/mebel-cupon/sendShum.php on line 176
+[13-Jan-2020 12:54:12 Europe/Minsk] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/getprice/public_html/mebel-cupon/sendShum.php on line 175
+[13-Jan-2020 12:54:12 Europe/Minsk] PHP Warning:  curl_setopt(): supplied resource is not a valid cURL handle resource in /home/getprice/public_html/mebel-cupon/sendShum.php on line 176
+[13-Jan-2020 12:55:36 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to undefined function sms() in /home/getprice/public_html/mebel-cupon/sendModern.php:146
+Stack trace:
+#0 {main}
+  thrown in /home/getprice/public_html/mebel-cupon/sendModern.php on line 146
+[13-Jan-2020 12:58:57 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to undefined function sms() in /home/getprice/public_html/mebel-cupon/sendModern.php:146
+Stack trace:
+#0 {main}
+  thrown in /home/getprice/public_html/mebel-cupon/sendModern.php on line 146
