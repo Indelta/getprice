@@ -41,7 +41,7 @@ else {
     $mes .= "<p>Внешняя отделка: $cover</p>";
     $mes .= "<p>Отправлено из формы: $forma</p>";
 
-    $isShum = getCheck();
+    $isShum = "true";
     if ($isShum == "true") {
         $to = "deltaplanirovanie@gmail.com, deltastream.dev@gmail.com, manager.deltaplan@gmail.com, ingatkch@gmail.com";
         $sub = "=?utf-8?B?" . base64_encode("Заявка с Getprice.by/shkaf-kupe") . '?=';
