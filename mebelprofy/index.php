@@ -6,7 +6,7 @@
         fclose($checkFile);
         return $bul;
     }
-    $isShum = "true";
+    $isShum = getCheck();
     if ($isShum == "true") {
         $phone = "<a href='tel:+375296486172' class='tel'>+375 (29) 648-61-72</a>";
         $unp = "УНП 191171910";
@@ -117,23 +117,12 @@
                         <?php echo $phone;?>
                     </header>
                     <div class="leftSide">
-                        <?php
-                        // $key_get = $_GET["utm_content"];
-                        // quotemeta($key_get);
-                        // $myquery = "SELECT * FROM `utp_metki_mebelprofy` WHERE `key` LIKE '$key_get' ORDER BY `id`";
-                        // $result = $connect->query($myquery);
-                        // $mass = $result->fetch_array(MYSQLI_ASSOC);
-                        // $str1=$mass['str1'];
-                        // $str2=$mass['str2'];
-                        // if (empty($str1)) {
-                        //     $str1='Ищете шкаф-купе по выгодной цене?';
-                        //     $str2='Лучшие цены на <span>шкафы-купе!</span> Стоимость напрямую с фабрик!';
-                        // }
-                        // echo '<p class="question">'.$str1.'</p>';
-                        // echo '<h1>'.$str2.'</h1>';
-                        echo '<p class="question">Ищете шкаф-купе по выгодной цене?</p>';
-                        echo '<h1>Лучшие цены на <span class="nextStep">шкафы-купе!</span> Бронируйте стоимость в BYN по старому курсу!</h1>';
-                        ?>
+                        <p class="question">Ищете шкаф-купе по выгодной цене?</p>
+                        <h1>
+                            Лучшие цены на 
+                            <span class="nextStep">шкафы-купе!</span> 
+                            Бронируйте стоимость в BYN по старому курсу!
+                        </h1>
                         <div class="startQuest">
                             <div class="pulse"></div>
                             <p class="btn">Рассчитать стоимость</p>

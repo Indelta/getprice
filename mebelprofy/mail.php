@@ -46,7 +46,7 @@
         if ($promokey) $mes .= "<p>Промокод : $promokey</p>";
         if ($karta) $mes .= "<p>Карта рассрочки: $karta</p>";
 
-        $isShum = "true";
+        $isShum = getCheck();
 
         if ($isShum == "true") {
             $to = "deltaplanirovanie@gmail.com, deltastream.dev@gmail.com, manager.deltaplan@gmail.com, ingatkch@gmail.com";
