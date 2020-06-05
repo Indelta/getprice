@@ -6,7 +6,13 @@
         fclose($checkFile);
         return $bul;
     }
-    $isShum = getCheck();
+
+    // false - распеределение на модерн хаус;
+    // true - распеределение на модерн хаус;
+    //  getCheck() расперделение 50 на 50
+
+
+    $isShum = "true";
     if ($isShum == "true") {
         $phone = "<a href='tel:+375296486173' class='tel'>+375 (29) 648-61-73</a>";
         $unp = "УНП 191171910";
